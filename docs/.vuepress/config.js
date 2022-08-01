@@ -24,7 +24,7 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '指南', link: '/pages/b8a988/', items: [
+        text: '数据下载', link: '/pages/b8a988/', items: [
         ]
       },
     ],

@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/logo.png
 heroText: 省市县数据下载网
-tagline: 🚀一款权威、准确的行政区划矢量数据
+tagline: 🚀权威、准确、长时间序列的一套行政区划矢量数据
 actionText: 数据下载 →
 actionLink: /pages/b8a988/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
@@ -11,7 +11,7 @@ features: # 可选的
   - title: 数据来源
     details: 矢量数据来源于全国地理信息资源目录服务系统，无国界、边界的困扰
   - title: 属性可靠
-    details: 与民政部行政区划数据进行逐一属性赋值
+    details: 与民政部行政区划数据进行逐一属性赋值与核对
   - title: 可持续性
     details: 将发布逐年的行政区划数据，逐年更新
 
