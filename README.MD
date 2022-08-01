@@ -3,8 +3,8 @@
 
 <h2 align="center">vuepress-theme-vdoing</h2>
 
-[在线文档(国内源)](https://doc.xugaoyi.com/)
+[在线文档(国内源)](https://shengshixian.ruiduobao.com/)
 
-[主题仓库](https://github.com/xugaoyi/vuepress-theme-vdoing)
+[主题仓库](https://github.com/ruiduobao/shengshixian.com)
 
-[本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing-doc)
+[本仓库的gitee镜像](https://github.com/ruiduobao/shengshixian.com)
