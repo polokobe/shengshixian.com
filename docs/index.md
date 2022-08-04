@@ -9,7 +9,7 @@ bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | no
 
 features: # 可选的
   - title: 数据来源
-    details: 矢量数据来源于全国地理信息资源目录服务系统，无国界、边界的困扰
+    details: 无国界、边界的困扰
   - title: 属性可靠
     details: 与民政部行政区划数据进行逐一属性赋值与核对
   - title: 可持续性
