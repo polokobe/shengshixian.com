@@ -1,10 +1,23 @@
-<p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://fastly.jsdelivr.net/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
+行政区划数据是重要的基础地理信息数据，但目前市面上能使用的行政区域数据问题颇多。这里列出几种大家常用的行政区划数据供大家参考:
 
+| 名称                           | 时间        | 优点             | 缺点                         | 来源                     |
+| ------------------------------ | ----------- | ---------------- | ---------------------------- | ------------------------ |
+| 国家基础地理信息的行政区划数据 | 2019年      | 权威             | 缺乏属性、时间序列           | ngcc.cn                  |
+| 密歇根中国数据中心             | 1949-2021年 | 长时间序列、准确 | 付费下载                     | chinadatacenter.net      |
+| 中科资环行政区划数据           | 2015年      | 权威、准确       | 数据老旧、矢量错误多         | resdc.cn                 |
+| 天地图爬取的矢量数据           | 不统计      | 权威、准确       | 仅能按省份下载               | tianditu.gov.cn          |
+| 民政部区划数据                 | 2018年      | 权威、准确       | 非公开下载、仅线矢量         | dmfw.mca.gov.cn          |
+| gadm数据                       | 2022年      | 下载便捷         | 地图不完整、非权威           | gadm.org                 |
+| 高德行政区划数据               | 2022年      | 及时性           | 非权威、缺乏属性、下载不方便 | datav.aliyun.com         |
+| 爱好者整理（数读城事）         | 2018-2022年 | 属性完整         | 非权威、非公开下载           | 公众号 数读城事          |
+| 加州伯克利大学行政区划数据     | 1949-2013年 | 长时间序列       | 不权威、不准确               | geodata.lib.berkeley.edu |
 
-<h2 align="center">vuepress-theme-vdoing</h2>
+基于上述问题，我想**基于权威的行政区划数据**，制作一套2015年-2022年的**长时间序列的**、具有**符合民政部属性的**、**开放获取的**行政区划数据。
 
-[在线文档(国内源)](https://shengshixian.ruiduobao.com/)
+![](http://pics.landcover100.com/pics/20222228/630b5a5878fdb.png)
 
-[主题仓库](https://github.com/ruiduobao/shengshixian.com)
+这个仓库包含两个部分：数据矢量和网站前端。
 
-[本仓库的gitee镜像](https://github.com/ruiduobao/shengshixian.com)
+欢迎大家fork和标星，有问题可以联系我。我的微信：kitmyfacepleaseA
+
+![](http://pics.landcover100.com/pics/20222231/630e4ac7375c1.jpg)
