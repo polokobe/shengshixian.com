@@ -1,20 +1,22 @@
-行政区划数据是重要的基础地理信息数据，但目前市面上能使用的行政区域数据问题颇多。这里列出几种大家常用的行政区划数据供大家参考:
-
-| 名称                           | 时间        | 优点             | 缺点                         | 来源                     |
-| ------------------------------ | ----------- | ---------------- | ---------------------------- | ------------------------ |
-| 国家基础地理信息的行政区划数据 | 2019年      | 权威             | 缺乏属性、时间序列           | ngcc.cn                  |
-| 密歇根中国数据中心             | 1949-2021年 | 长时间序列、准确 | 付费下载                     | chinadatacenter.net      |
-| 中科资环行政区划数据           | 2015年      | 权威、准确       | 数据老旧、矢量错误多         | resdc.cn                 |
-| 天地图爬取的矢量数据           | 不统计      | 权威、准确       | 仅能按省份下载               | tianditu.gov.cn          |
-| 民政部区划数据                 | 2018年      | 权威、准确       | 非公开下载、仅线矢量         | dmfw.mca.gov.cn          |
-| gadm数据                       | 2022年      | 下载便捷         | 地图不完整、非权威           | gadm.org                 |
-| 高德行政区划数据               | 2022年      | 及时性           | 非权威、缺乏属性、下载不方便 | datav.aliyun.com         |
-| 爱好者整理（数读城事）         | 2018-2022年 | 属性完整         | 非权威、非公开下载           | 公众号 数读城事          |
-| 加州伯克利大学行政区划数据     | 1949-2013年 | 长时间序列       | 不权威、不准确               | geodata.lib.berkeley.edu |
+行政区划数据是重要的基础地理信息数据，但目前市面上能使用的行政区域数据问题颇多。
 
 基于上述问题，我想**基于权威的行政区划数据**，制作一套2015年-2022年的**长时间序列的**、具有**符合民政部属性的**、**开放获取的**行政区划数据。
 
 ![](http://pics.landcover100.com/pics/20222228/630b5a5878fdb.png)
+
+
+| 年份                         | 国家级                                                       | 省级                                                         | 地级                                                         | 县级                                                         | 九段线                                                       |
+| ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2022年初行政区划数据（暂无） | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/%E5%9B%BD%E7%95%8C.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2022%E7%9C%81%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2022%E5%9C%B0%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2022%E5%8E%BF%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/%E4%B9%9D%E6%AE%B5%E7%BA%BF.zip) |
+| 2021年初行政区划数据         | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/%E5%9B%BD%E7%95%8C.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2021%E7%9C%81%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2021%E5%9C%B0%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2021%E5%8E%BF%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/%E4%B9%9D%E6%AE%B5%E7%BA%BF.zip) |
+| 2020年初行政区划数据         | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/%E5%9B%BD%E7%95%8C.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2020%E7%9C%81%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2020%E5%9C%B0%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/2020%E5%8E%BF%E7%BA%A7.zip) | [点击下载](https://shengshixian-1309147016.cos.ap-shanghai.myqcloud.com/%E4%B9%9D%E6%AE%B5%E7%BA%BF.zip) |
+| 2019年初行政区划数据（暂无） | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     |
+| 2018年初行政区划数据（暂无） | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     |
+| 2017年初行政区划数据（暂无） | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     |
+| 2016年初行政区划数据（暂无） | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     |
+| 2015年初行政区划数据（暂无） | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     | 点击下载                                                     |
+
+
 
 这个仓库包含两个部分：数据矢量和网站前端。
 
