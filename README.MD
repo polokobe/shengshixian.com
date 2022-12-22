@@ -6,19 +6,18 @@
 
 
 
-| 年份                         | 国家级                                           | 省级                                             | 地级                                             | 县级                                             | 九段线                                           |
-| ---------------------------- | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 2022年初行政区划数据         | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | [点击下载](https://wwu.lanzout.com/iwGGP0b5j6li) | [点击下载](https://wwu.lanzout.com/i2kBH0b5j6if) | [点击下载](https://wwu.lanzout.com/i9ntL0b5j6re) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
-| 2021年初行政区划数据         | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | [点击下载](https://wwu.lanzout.com/iNfoV0b5j6na) | [点击下载](https://wwu.lanzout.com/i6MFs0b5j6eb) | [点击下载](https://wwu.lanzout.com/iK9Hc0b5j70d) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
-| 2020年初行政区划数据         | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | [点击下载](https://wwu.lanzout.com/iZY7z0b5k68b) | [点击下载](https://wwu.lanzout.com/i9VZH0b5k5wj) | [点击下载](https://wwu.lanzout.com/ilAZW0b5k76f) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
-| 2019年初行政区划数据（暂无） | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | 点击下载                                         | 点击下载                                         | 点击下载                                         | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
-| 2018年初行政区划数据（暂无） | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | 点击下载                                         | 点击下载                                         | 点击下载                                         | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
-| 2017年初行政区划数据（暂无） | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | 点击下载                                         | 点击下载                                         | 点击下载                                         | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
-| 2016年初行政区划数据（暂无） | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | 点击下载                                         | 点击下载                                         | 点击下载                                         | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
-| 2015年初行政区划数据（暂无） | [点击下载](https://wwu.lanzout.com/i3PaU0b5j6cj) | 点击下载                                         | 点击下载                                         | 点击下载                                         | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 年份                         | 国家级                                           | 省级                                              | 地级                                              | 县级                                              | 九段线                                           |
+| ---------------------------- | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ |
+| 2022年初行政区划数据         | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | [点击下载](https://wwu.lanzout.com/iwGGP0b5j6li)  | [点击下载](https://wwqb.lanzout.com/iRpha0j3k7gb) | [点击下载](https://wwqb.lanzout.com/isK110j6nvlg) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 2021年初行政区划数据         | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | [点击下载](https://wwu.lanzout.com/iNfoV0b5j6na)  | [点击下载](https://wwqb.lanzout.com/iTToN0j3k7di) | [点击下载](https://wwqb.lanzout.com/iCXv30j6nvej) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 2020年初行政区划数据         | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | [点击下载](https://wwu.lanzout.com/iZY7z0b5k68b)  | [点击下载](https://wwqb.lanzout.com/iZvot0j3k78d) | [点击下载](https://wwqb.lanzout.com/idx8S0j6nv0f) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 2019年初行政区划数据         | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | [点击下载](https://wwqb.lanzout.com/icxjj0j3k6xc) | [点击下载](https://wwqb.lanzout.com/i8Mbk0j3k6wb) | [点击下载](https://wwqb.lanzout.com/iGVcK0j6nuaj) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 2018年初行政区划数据         | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | [点击下载](https://wwqb.lanzout.com/inBkw0j5ootc) | [点击下载](https://wwqb.lanzout.com/i0rl70j5oora) | [点击下载](https://wwqb.lanzout.com/iAmNL0j6ntmf) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 2017年初行政区划数据         | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | [点击下载](https://wwqb.lanzout.com/iPlaL0j6nl9e) | [点击下载](https://wwqb.lanzout.com/iiCyu0j6nojc) | [点击下载](https://wwqb.lanzout.com/iuyCL0j6nlje) | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 2016年初行政区划数据（暂无） | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | 点击下载                                          | 点击下载                                          | 点击下载                                          | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
+| 2015年初行政区划数据（暂无） | [点击下载](https://wwu.lanzout.com/iIRn80bspkni) | 点击下载                                          | 点击下载                                          | 点击下载                                          | [点击下载](https://wwu.lanzout.com/ifQ0t0b5j6gd) |
 
-这个仓库包含两个部分：数据矢量和网站前端。
 
-欢迎大家fork和标星，欢迎关注公众号：锐多宝的地理空间
+公众号：锐多宝的地理空间
 
 ![](http://pics.landcover100.com/pics/6241778738d1e.jpg)
